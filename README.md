@@ -1,4 +1,4 @@
-# Neon-Drift-Unity
+# Neon Drift
 
 This is a movement/drifting focused 2D topdown game made in Unity - Avoid the missiles and earn points by destroying them, spend the points on upgrades.
 
